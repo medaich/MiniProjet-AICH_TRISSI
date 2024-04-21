@@ -67,5 +67,5 @@ Exécutez le programme :
 - Suivez les instructions affichées à l'écran pour utiliser les différentes fonctionnalités de l'application.
 - Assurez-vous de respecter le format des entrées utilisateur tel qu'indiqué dans les instructions.
 ## Auteurs: 
-AICH Mohammed
-TRISSI Ahmed
+- AICH Mohammed
+- TRISSI Ahmed
