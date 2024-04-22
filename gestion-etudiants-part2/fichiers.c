@@ -33,7 +33,7 @@ void enregistrerEtudiantsDansFichier(Etudiant etudiants[], int nbr_etudiants_act
         fprintf(fichier, "\n");
     }
     fclose(fichier);
-    printf("Les étudiants ont été enregistrés dans le fichier avec succès\n");
+    printf("Les modifications ont été enregistrés avec succès\n");
 }
 void lireEtudiantsDeFichier(Etudiant etudiants[], int* nbr_etudiants_actu){
     FILE* fichier = fopen("etudiants.txt", "r");
