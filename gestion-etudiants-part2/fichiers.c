@@ -63,5 +63,4 @@ void lireEtudiantsDeFichier(Etudiant etudiants[], int* nbr_etudiants_actu){
         *nbr_etudiants_actu = *nbr_etudiants_actu + 1;
     }
     fclose(fichier);
-    printf("Les étudiants ont été lus du fichier avec succès\n");
 }
